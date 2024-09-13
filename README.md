@@ -15,7 +15,7 @@ This **Cassette-Style Game Case** provides an efficient storage and display solu
 - **Infill:** 5% grid for a lightweight yet sturdy case.
 - **Support:** No supports required.
 
-## Print Profiles Included
+## Print Profiles Included (for Bambu Labs printers)
 - **For AMS Systems:**
   - One profile for plain versions (all pieces on one plate).
   - One profile for branded versions (all pieces on one plate).
